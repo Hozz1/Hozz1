@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img alt="Banner" src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:0f172a&height=120&section=header&text=Dmitry%20—%20Backend%20Developer&fontColor=E5E7EB&fontSize=36&fontAlignY=40" />
+  <img alt="Banner" src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:0f172a&height=120&section=header&text=Backend%20Developer&fontColor=E5E7EB&fontSize=36&fontAlignY=40" />
 
   <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white">
