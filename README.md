@@ -58,18 +58,9 @@ Backend-focused developer (Python/Django). College student. I build pragmatic we
 Designing pragmatic REST APIs and auth flows; performance with cache/rate limits/pagination/indexes; incremental architecture with measured improvements.
 
 ## Contact
-- Email: **<your.email@domain>**  
-- Telegram: **@your_telegram**  
-- LeetCode: **<your_leetcode>**  
-- LinkedIn: **<your_linkedin>** (optional)
-
----
-
-### GitHub Stats
-<div align="left">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=github_dark&hide_title=true&rank_icon=github" alt="GitHub stats"/>
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=github_dark&hide_title=true" alt="Top languages"/>
-</div>
+- Email: **dmitriylazebnyy911@gmail.com**  
+- Telegram: **@hozz1**  
+- LeetCode: **https://leetcode.com/u/hozzi/**  
 
 ---
 
