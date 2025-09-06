@@ -17,7 +17,6 @@
 
   <p>
     <img alt="Open to opportunities" src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Junior%20Roles-10B981?style=flat">
-    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=<your-username>&color=0ea5e9&style=flat">
   </p>
 </div>
 
